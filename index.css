@@ -37,7 +37,7 @@
     height:10vh;
     position: absolute;
     margin-top: -175vh;
-    margin-left:5vw;
+    margin-left:3vw;
     z-index: 5;
     border-bottom: 70vw solid rgb(242, 242, 94);
     border-left: 15vw solid transparent;
@@ -59,7 +59,7 @@
     height:10vh;
     position: absolute;
     margin-top: -175vh;
-    margin-left:5vw;
+    margin-left:3vw;
     z-index: 5;
     border-bottom: 70vw solid rgb(237, 96, 86);
     border-left: 15vw solid transparent;
@@ -74,14 +74,14 @@
     height:10vh;
     position: absolute;
     margin-top: -5vh;
-    margin-left:15vw;
+    margin-left:14vw;
     z-index: 5;
     display:none;
     width:3vw;
     height:10vh;
     position: absolute;
     margin-top: -175vh;
-    margin-left:5vw;
+    margin-left:3vw;
     z-index: 5;
     border-bottom: 70vw solid rgb(55, 67, 235);
     border-left: 15vw solid transparent;
