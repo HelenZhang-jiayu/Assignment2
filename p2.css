@@ -154,3 +154,19 @@ to {
     opacity:30%;
     box-shadow: 0 0 50px white;
 }
+.footer{
+    margin-bottom: 10vh;
+    color:white;
+    display:inline-block;
+    line-height: 100%;
+    position: absolute;
+    font-size: 12px;
+    text-align: right;
+    top:325vh;
+    right:3vw;
+    opacity:70%;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    animation: glow1 10s ease-in-out infinite alternate;
+}
