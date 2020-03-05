@@ -15,7 +15,7 @@
 .poem2{
     position: absolute;
     top:55vh;
-    left:27.4vw;
+    left:27.5vw;
 }
 .poem2:hover .light2{
     display:block;
