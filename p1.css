@@ -1,0 +1,204 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    background-color: black;
+}
+.cover{
+    position: absolute;
+    top:18vh;
+    left:25vw;
+}
+h1{
+    font-family: sans-serif;
+    color:rgb(147, 42, 147);
+    font-size: 250px;
+    font-weight: bold;
+    position: absolute;
+    top:-25vh;
+    left:4vw;
+    transform: rotate(15deg);
+}
+h2{
+    z-index: 10;
+    font-family: sans-serif;
+    color:rgb(240, 126, 26);
+    font-size: 300px;
+    font-weight: bold;
+    position: absolute;
+    top:-20vh;
+    left:18vw;
+    transform: rotate(-20deg);
+}
+h3{
+    z-index: 10;
+    font-family: sans-serif;
+    color:rgb(240, 233, 26);
+    font-size: 250px;
+    font-weight: bold;
+    position: absolute;
+    top:5vh;
+    left:8vw;
+    transform: rotate(10deg);
+}
+h4{
+    z-index: 10;
+    font-family: sans-serif;
+    color:rgb(26, 122, 240);
+    font-size: 300px;
+    font-weight: bold;
+    position: absolute;
+    top:13vh;
+    left:17vw;
+    transform: rotate(23deg);
+}
+p{
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+}
+.main{
+    position: absolute;
+    top:102vh;
+    left:15vw;
+    right:5vw;
+}
+.main>*{
+    display:block;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+#s1{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+}
+#img1{
+    display:none;
+    position: absolute;
+    top:200vh;
+    left:42vw;
+}
+#s1:hover{
+    color:red;
+}
+#s1:hover #img1{
+    display:block;
+}
+.s2{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+    position: absolute;
+    top:350vh;
+    left:0vw;
+
+}
+.s2:hover{
+    color:rgb(170, 51, 170);
+}
+.s2:hover #img3{
+    display:block;
+}
+.s3{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+    margin-bottom: 5vh;
+    margin-left:57vw;
+    text-align: right;
+}
+.s3:hover{
+    color:blue;
+}
+.s3:hover #img4{
+    display:block;
+}
+#img2{
+    position: absolute;
+    top:422vh;
+    left:43vw;
+}
+#img3{
+    display:none;
+    position: absolute;
+    top:-3vh;
+    left:65vw;
+}
+#img4{
+    display:none;
+    position: absolute;
+    top:610vh;
+    left:8vw;
+}
+.text1{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+}
+.text1:hover{
+    color:rgb(214, 214, 214);
+}
+.text2{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+}
+.text2:hover{
+    color:rgb(131, 131, 131);
+}
+.text3{
+    display:inline-block;
+    font-family:Snell Roundhand;
+    color:white;
+    font-size: 18px;
+}
+.text3:hover{
+    color:rgb(65, 65, 65);
+}
+.bar>*{
+    position:fixed;
+    margin-left:-0.5vw;
+    padding:0 0 0 0;
+    width:3.4vw;
+    height:1vh;
+}
+a{
+    color:white;
+    font-family: sans-serif;
+    font-size:7px;
+}
+.b1{
+    margin-top: 10vh;
+    background-color:rgb(214, 214, 214) ;
+}
+
+.b2{
+    margin-top: 25vh;
+    background-color:rgb(250, 7, 7) ;
+}
+.b3{
+    margin-top: 36vh;
+    background-color:rgb(131, 131, 131);
+}
+.b4{
+    margin-top: 40vh;
+    background-color:rgb(170, 51, 170);
+}
+.b5{
+    margin-top: 60vh;
+    background-color: blue;
+}
