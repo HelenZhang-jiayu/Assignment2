@@ -5,6 +5,7 @@
 }
 
 .poem1{
+   
     position: absolute;
     top:55vh;
     left:-3vw;  
@@ -13,6 +14,7 @@
     display:block;
 }
 .poem2{
+    
     position: absolute;
     top:55vh;
     left:27.5vw;
@@ -21,6 +23,7 @@
     display:block;
 }
 .poem3{
+    
     position: absolute;
     top:55vh;
     left:58vw;
