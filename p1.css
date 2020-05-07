@@ -85,7 +85,7 @@ p{
 #img1{
     display:none;
     position: absolute;
-    top:200vh;
+    top:195vh;
     left:42vw;
 }
 #s1:hover{
@@ -125,20 +125,20 @@ p{
 
 #img2{
     position: absolute;
-    top:422vh;
+    top:421vh;
     left:43vw;
 }
 #img3{
     display:none;
     position: absolute;
-    top:-3vh;
+    top:-6.5vh;
     left:65vw;
 }
 #img4{
     display:none;
     position: absolute;
-    top:610vh;
-    left:8vw;
+    top:590vh;
+    left:5vw;
 }
 .s3:hover #img4{
     display:block;
